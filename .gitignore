@@ -9,6 +9,8 @@
 backend/.env
 backend/.venv/
 backend/venv/
+backend/data/private.json
+backend/data/public.json
 
 # Node.js
 frontend/.env.local
